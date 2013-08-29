@@ -3,50 +3,66 @@ My beliefs
 
 On Morality
 -----------
-* Underneath the facade, we are all lovable
-* Gay marriage should be legal everywhere
-* Being good is in our nature (being evil requires misinformation or partial information)
-* Abortion should be legal everywhere
-* Assisted suicide should be legal everywhere
-* Health care should be available to everyone who needs it
-* The death penalty should be used in extreme and certain cases to protect the public
-* Prisons should be about protecting the public, not about punishment
+* Underneath it all, we just want to be loved
+* Love is love, and marriage is a commitment to and consecration of love.
+* Distinctions invite prejudice. There's no such thing as "gay" marriage, there's just marriage.
+* Our nature is essentially selfish. Putting others first takes work and requires perseverance and self awareness.
+* Abortion should be legal but discouraged, and alternative options should be made easier.
+* Assisted suicide should be a legal option for one of sound mind.
+* Health care should be available to everyone.
+* The death penalty should be used only in extreme cases, and to protect the public.
 * The world's average morality is improving as it becomes more connected
+* Industries and business which are demonstrably anti-consumer should be sanctioned or dissolved (publicly-owned insurance, big-pharma, Walmart, MPAA, RIAA, or any entity that exists for the pursuit of profit over the public interest.)
+* Non-human entities (eg. businesses) should not enjoy the same legal status as a person.
+
+On Freedom
+----------
+* Prisons should be about public protection and individual rehabilitiation.
+* We shouldn't build bigger prisons, we should build a better, more just and equal world.
 * Marijuana should be legal to grow, sell, buy, and carry
-* Owning a gun should require certification from a firearms officer verifying that they've taken a safetly course, are free of criminal record, and pass a psychological mental health check every few years
+* Owning a gun should require training and certification, and no criminal record.
+* Owning non-hunting (handguns and semi-automatic) firearms should require regular mental health evaluations.
+* DRM is a blight, and should be eradicated.
 
 On Spirituality
 ---------------
-* Remember, we will die
-* Souls don't exist separate from the physical body
-* The Gods of organized religion don't exist
-* Intention can't create reality (it just changes our perception of it)
+* Everything ends.
+* Is there such a thing as a soul?
+* If God exists, she is beyond my comprehension, definition, or control.
+* Reality arises from perceived conditions, and is shaped by our perception of it.
 * Astrology is entertainment
 * Magic and miracles don't exist
-* There is no heaven/hell
-* We don't have a purpose given to us, but we can make one up
+* I doubt the concept of an afterlife
+* Nevertheless, I trust some part of me will live on, even if only as atoms.
+* Our purpose is not pre-determined; we are not guided by fate, but by choice.
 
 On Science & The Universe
 -------------------------
-* Other dimensions and universes exist
-* Micro and macro evolution happens
-* Something like the Big Bang happened
-* Something existed before the Big Bang (outside of time and space as we know them)
-* Nothing in our universe will travel faster than light
-* The human brain (in its current state of evolution) can't comprehend the universe
+* I believe it possible that other dimensions and universes exist
+* Micro and macro evolution happens through mutation and natural selection
+* Something like the Big Bang probably happened
+* Something had to have existed before the Big Bang (outside of time and space as we know them)
+* Humans will eventually learn to travel "faster-than-light"
+* The human brain (in its current state of evolution) can't fully comprehend the universe
 * We have no cosmic significance
-* Aliens exist
-* Non-carbon-based life forms exist
-* Space travel throughout the universe is probably entirely the domain of robots and cyborgs
-* Forwards time-travel is possible, but backwards is not
-* Chances are, we live in a simulation
+* Aliens must exist
+* Non-carbon-based life forms must exist
+* Humans will eventually travel to other stars
+* Time travel is, most likely, not possible
+* There is little to no chance we are living inside a "simulation"
 
 On Health
 ---------
 * We can change our behavior and habits (it requires a lot of energy)
-* Consistently eating well and exercising is the only way to be sustainably healthy
-* Acupuncture works, somehow
-* Vaccinations are good for babies and society
+* Consistently eating well and exercising is the best path to sustainable health
+* Vaccines are good for babies and society
+* Vaccines almost certainly do not cause autism
+* The biggest boon to the scientific community are crackpots and charlatans
+* The biggest threat to the scientific community are crackpots and charlatans
+* Homeopathy is a sham.
+* The best defense is moderate exercise, plenty of rest, plenty of water, and a well-balanced whole food-based diet.
+
++++ In progress +++
 
 On Technology
 -------------
