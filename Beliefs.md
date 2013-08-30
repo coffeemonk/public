@@ -67,9 +67,12 @@ On Health
 On Technology
 -------------
 * Computers will be building better computers than humans by 2050 (the Singularity)
-* Humans, computers, and Earth will evolve into a super organism by 2200 (if we're still around)
-* Humans that embrace change (and give up some of their humanity) will survive the Singularity
 * Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics)
+* Technology will trend toward human-augmentation (Google Glass), but will be stymied by the human immune system.
+* We'll be cloning and transplanting viable bio-components (body parts) by... 2030.
+* Human uplift (uploading consciousness/memory to a "computer"), if possible, probably won't happen for another hundred years. Not likely to happen before Singularity, and the capability will emerge from genetic or evolutionary algorithms.
+
+
 
 On The Self
 -----------
